@@ -7,9 +7,7 @@
 - 🔭 + de 13 anos no ensino de Informática e Design Gráfico.
 
 - 🖋️ Paixão por soluções visuais atraentes e funcionais, com habilidades em programação e desenvolvimento de software.
-
 <br><br>
-
 ## Contact
 
 <a href="https://linkedin.com/in/lucasrammos" target="_blank">
@@ -22,6 +20,8 @@
  <img align="center" src="https://img.shields.io/badge/-lucas.rsilva32@gmail.com-05122A?style=flat&logo=gmail" alt="email"/>
 </a>
 </p>
+
+## Status
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=luksrammos&show_icons=true&theme=radical)
 
