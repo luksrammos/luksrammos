@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/luksrammos/e3bcc974a45a7b7934e31d1d7acd8178/raw/9b521734f3e1cbdd91fc77b689602e115d8aab33/githubcard.svg"/>
+<img align="right" height="570em" src="https://raw.githubusercontent.com/gist/luksrammos/e3bcc974a45a7b7934e31d1d7acd8178/raw/9b521734f3e1cbdd91fc77b689602e115d8aab33/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas Ramos</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luksrammos&color=yellow" alt="Profile views" /> </p>
 
