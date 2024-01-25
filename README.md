@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas Ramos</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luksrammos&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Sistemas de Informação 5/8 - Estudante de JAVA 
+- 🔥 Sistemas de Informação 6/8 - Estudante de JAVA 
 
 - 🔭 + de 13 anos no ensino de Informática e Design Gráfico.
 
